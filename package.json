@@ -1,0 +1,17 @@
+{
+  "name": "parish_registration",
+  "version": "1.0.0",
+  "description": "Parish Registration",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salamap/ParishRegistration"
+  },
+  "author": "Peter Salama",
+  "license": "ISC"
+}
